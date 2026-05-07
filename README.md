@@ -55,5 +55,5 @@ Full-featured backend covering books, loans, fines, reservations, subscriptions,
 ---
 
 🧩 **150+ LeetCode problems solved**  
-📫 Reach me at **kashyapvasu2468@gmail.com**  
+📫 Reach me at **vashu.kumar8642@gmail.com**  
 📍 India
