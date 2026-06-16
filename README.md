@@ -18,8 +18,7 @@ Currently exploring AI/ML and System Design.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -42,7 +41,7 @@ Built with reusable React architecture and optimized for cross-device compatibil
 
 ---
 
-### 📚 [Library Management System] (https://library-management-frontend-gold.vercel.app/)
+### 📚 [Library Management System](https://library-management-frontend-gold.vercel.app/)
 > Spring Boot · PostgreSQL · REST APIs
 
 Full-featured backend covering books, loans, fines, reservations, subscriptions, and user auth.
