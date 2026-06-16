@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Vashu Kumar
 
 **Computer Science student · Full-Stack Developer · Problem Solver**
@@ -41,8 +42,8 @@ Built with reusable React architecture and optimized for cross-device compatibil
 
 ---
 
-### 📚 Library Management System *(in progress)*
-> Spring Boot · MySQL · REST APIs
+### 📚 [Library Management System] (https://library-management-frontend-gold.vercel.app/)
+> Spring Boot · PostgreSQL · REST APIs
 
 Full-featured backend covering books, loans, fines, reservations, subscriptions, and user auth.
 
@@ -54,6 +55,6 @@ Full-featured backend covering books, loans, fines, reservations, subscriptions,
 
 ---
 
-🧩 **150+ LeetCode problems solved**  
-📫 Reach me at **vashu.kumar8642@gmail.com**  
+
+📫 Reach me at **vashu.kumar.17.12.2004@gmail.com**  
 📍 India
