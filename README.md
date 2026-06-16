@@ -25,6 +25,15 @@ Currently exploring AI/ML and System Design.
 
 ## 🚀 Projects
 
+
+### 📚 [Library Management System](https://library-management-frontend-gold.vercel.app/)
+>  React.js · Tailwind CSS · Spring Boot · PostgreSQL · REST APIs
+
+The application supports role-based access for Admin, Librarian, and Student users, enabling features such as book management, issue/return tracking, user authentication, and dashboard analytics.
+Built with React for the frontend and Spring Boot with PostgreSQL for the backend, following RESTful API architecture and secure authentication practices.
+
+---
+
 ### 🎬 [Movie Recommendation System](https://movie-recommender-six-kappa.vercel.app/)
 > React.js · REST APIs · Tailwind CSS
 
@@ -38,13 +47,6 @@ Integrated REST APIs for real-time data fetching with filtering and sorting mech
 
 Sleek, responsive portfolio with smooth animations and interactive components.  
 Built with reusable React architecture and optimized for cross-device compatibility.
-
----
-
-### 📚 [Library Management System](https://library-management-frontend-gold.vercel.app/)
-> Spring Boot · PostgreSQL · REST APIs
-
-Full-featured backend covering books, loans, fines, reservations, subscriptions, and user auth.
 
 ---
 
